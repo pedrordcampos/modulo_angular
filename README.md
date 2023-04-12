@@ -1,5 +1,5 @@
 
-# PROJETO: BootCamp Dio Ifood - Módulo Angular
+# PROJETO: BootCamp Dio Ifood - Módulo II (Angular)
 
 Esse projeto foi desenvolvido a partir das video-aulas oferecidas no Bootcamp **[Potência Tech Angular Developer - Powered by iFood]** (https://web.dio.me/track/potencia-tech-angular-developer-powered-ifood)
 
